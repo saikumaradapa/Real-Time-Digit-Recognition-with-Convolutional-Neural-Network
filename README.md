@@ -30,3 +30,13 @@ Clone the repository.</br>
 Install required Python libraries/packages: pip install -r requirements.txt </br>
 Run the Flask server: python app.py </br>
 Access the application on your browser at http://127.0.0.1:5000. </br>
+
+
+
+
+
+
+
+https://github.com/saikumaradapa/Real-Time-Digit-Recognition-with-Convolutional-Neural-Network/assets/96902883/93a0b5c4-2e8d-4926-86a5-1e1183c9899d
+
+
