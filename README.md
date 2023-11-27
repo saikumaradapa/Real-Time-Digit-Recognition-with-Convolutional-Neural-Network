@@ -6,7 +6,7 @@ A real-time digit recognition system that captures video from a device's camera,
 
 **Tech Stack :** </br>
 **Machine Learning Framework**: Keras (with TensorFlow backend) </br>
-**Image Processing**: OpenCV </br>
+**Image Processing**: OpenCV, cvzone </br>
 **Web Framework**: Flask </br>
 **UI Components**: HTML, CSS, JavaScript </br>
 **Others**: cvzone (for additional computer vision utilities) </br>
